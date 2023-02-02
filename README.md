@@ -7,6 +7,4 @@
   <a href="https://t.me/darushka_n">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <p><a href="mailto:dashanecheporenko2161@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"/></a></p>
 </div>
