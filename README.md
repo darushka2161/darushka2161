@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**darushka2161/darushka2161** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Ut7zeRXCmxc0td7N68/giphy.gif" width="150"/>
+<div id="badges">
+  <a href="https://vk.com/darushkan">
+    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
+  </a>
+  <a href="https://t.me/darushka_n">
+    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <p><a href="mailto:dashanecheporenko2161@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"/></a></p>
+</div>
